@@ -521,10 +521,10 @@ export class ImageProcessor {
     });
 
     try {
-      // await fs.writeFile(
-      //   this.banksFilePath,
-      //   JSON.stringify(updatedBanks, null, 2)
-      // );
+      await fs.writeFile(
+        this.banksFilePath,
+        JSON.stringify(updatedBanks, null, 2)
+      );
       console.log(
         `✓ Updated ${this.banksFilePath} with ${updatedBanks.length} banks`
       );
