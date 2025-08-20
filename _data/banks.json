@@ -1,0 +1,3544 @@
+[
+  {
+    "name": "78 Finance Company Limited",
+    "code": "110072",
+    "bankName": "78 FINANCE COMPANY LIMITED",
+    "nipBankCode": "110072",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "9 Payment Service Bank",
+    "code": "120001",
+    "bankName": "9 PAYMENT SERVICE BANK",
+    "nipBankCode": "120001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AAA Finance",
+    "code": "050005",
+    "bankName": "AAA FINANCE AND INVESTMENT COMPANY LIMITED",
+    "nipBankCode": "050005",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AB Microfinance Bank",
+    "code": "090270",
+    "bankName": "AB MICROFINANCE BANK",
+    "nipBankCode": "090270",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ABBEY MORTGAGE BANK",
+    "code": "070010",
+    "bankName": "ABBEY MORTGAGE BANK",
+    "nipBankCode": "070010",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Above Only Microfinance Bank",
+    "code": "090260",
+    "bankName": "ABOVE ONLY MICROFINANCE BANK",
+    "nipBankCode": "090260",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ABSU MFB",
+    "code": "090640",
+    "bankName": "ABSU MICROFINANCE BANK",
+    "nipBankCode": "090640",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ABU Microfinance Bank",
+    "code": "090197",
+    "bankName": "ABU MICROFINANCE BANK",
+    "nipBankCode": "090197",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Abucoop  Microfinance Bank",
+    "code": "090424",
+    "bankName": "ABUCOOP MFB",
+    "nipBankCode": "090424",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ACCESS BANK PLC",
+    "code": "044",
+    "bankName": "ACCESS BANK",
+    "nipBankCode": "000014",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000014"
+  },
+  {
+    "name": "AccessMobile",
+    "code": "323",
+    "bankName": "ACCESS MONEY",
+    "nipBankCode": "100013",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ACCION MICROFINANCE BANK",
+    "code": "090134",
+    "bankName": "ACCION MICROFINANCE BANK",
+    "nipBankCode": "090134",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ada Microfinance Bank",
+    "code": "090483",
+    "bankName": "ADA MFB",
+    "nipBankCode": "090483",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ADDOSSER MICROFINANCE BANK",
+    "code": "090160",
+    "bankName": "ADDOSSER MICROFINANCE BANK",
+    "nipBankCode": "090160",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Adeyemi College Staff Microfinance Bank",
+    "code": "090268",
+    "bankName": "ADEYEMI COLLEGE STAFF MICROFINANCE BANK",
+    "nipBankCode": "090268",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Advans La Fayette  Microfinance Bank",
+    "code": "090155",
+    "bankName": "ADVANS LA FAYETTE  MICROFINANCE BANK",
+    "nipBankCode": "090155",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Afekhafe Microfinance Bank",
+    "code": "090292",
+    "bankName": "AFEKHAFE MICROFINANCE BANK",
+    "nipBankCode": "090292",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Afemai Microfinance Bank",
+    "code": "090518",
+    "bankName": "AFEMAI MFB",
+    "nipBankCode": "090518",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AG MORTGAGE BANK PLC",
+    "code": "100028",
+    "bankName": "AG MORTGAGE BANK",
+    "nipBankCode": "100028",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AGOSASA MICROFINANCE BANK",
+    "code": "090371",
+    "bankName": "AGOSASA MICROFINANCE BANK",
+    "nipBankCode": "090371",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Akalabo MFB",
+    "code": "090698",
+    "bankName": "AKALABO MFB",
+    "nipBankCode": "090698",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Aku Microfinance Bank",
+    "code": "090531",
+    "bankName": "AKU MICROFINANCE BANK",
+    "nipBankCode": "090531",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Akuchuckwu Microfinance Bank",
+    "code": "090561",
+    "bankName": "AKUCHUKWU MICROFINANCE BANK",
+    "nipBankCode": "090561",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AL",
+    "code": "090133",
+    "bankName": "AL-BARAKAH MICROFINANCE BANK",
+    "nipBankCode": "090133",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Al-Hayat Microfinance Bank",
+    "code": "090277",
+    "bankName": "AL-HAYAT MICROFINANCE BANK",
+    "nipBankCode": "090277",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Alekun Microfinance Bank",
+    "code": "090259",
+    "bankName": "ALEKUN MICROFINANCE BANK",
+    "nipBankCode": "090259",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Alert Microfinance Bank",
+    "code": "090297",
+    "bankName": "ALERT MICROFINANCE BANK",
+    "nipBankCode": "090297",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Allworkers Microfinance Bank",
+    "code": "090131",
+    "bankName": "ALLWORKERS MICROFINANCE BANK",
+    "nipBankCode": "090131",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Alpha Kapital Microfinance Bank",
+    "code": "090169",
+    "bankName": "ALPHA KAPITAL MICROFINANCE BANK",
+    "nipBankCode": "090169",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Alternative Bank",
+    "code": "000037",
+    "bankName": "ALTERNATIVE BANK LIMITED",
+    "nipBankCode": "000037",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Amac Microfinance Bank",
+    "code": "090394",
+    "bankName": "AMAC MICROFINANCE BANK",
+    "nipBankCode": "090394",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AMJU UNIQUE MICROFINANCE BANK",
+    "code": "090180",
+    "bankName": "AMJU UNIQUE MICROFINANCE BANK",
+    "nipBankCode": "090180",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AMML MFB",
+    "code": "090116",
+    "bankName": "AMML MICROFINANCE BANK",
+    "nipBankCode": "090116",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ampersand Microfinance Bank",
+    "code": "090529",
+    "bankName": "BANKLY(AMPERSAND) MICROFINANCE BANK",
+    "nipBankCode": "090529",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AMUCHA MFB",
+    "code": "090645",
+    "bankName": "NOMBANK MICROFINANCE BANK",
+    "nipBankCode": "090645",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Apex Trust MFB",
+    "code": "090737",
+    "bankName": "APEX TRUST MICROFINANCE BANK",
+    "nipBankCode": "090737",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Apple Microfinance Bank",
+    "code": "090376",
+    "bankName": "APPLE MICROFINANCE BANK",
+    "nipBankCode": "090376",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Arise Microfinance Bank",
+    "code": "090282",
+    "bankName": "ARISE MICROFINANCE BANK",
+    "nipBankCode": "090282",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ASO SAVINGS AND LOANS",
+    "code": "401",
+    "bankName": "ASO SAVINGS",
+    "nipBankCode": "090001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/090001"
+  },
+  {
+    "name": "Aspire Microfinance Bank",
+    "code": "090544",
+    "bankName": "ASPIRE MICROFINANCE BANK",
+    "nipBankCode": "090544",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "AssetMatrix Microfinance Bank",
+    "code": "090287",
+    "bankName": "ASSET MATRIX MICROFINANCE BANK",
+    "nipBankCode": "090287",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Assets Microfinance Bank",
+    "code": "090473",
+    "bankName": "ASSETS MICROFINANCE BANK",
+    "nipBankCode": "090473",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Astrapolaris Microfinance Bank",
+    "code": "090172",
+    "bankName": "ASTRAPOLARIS MICROFINANCE BANK",
+    "nipBankCode": "090172",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Auchi Microfinance Bank",
+    "code": "090264",
+    "bankName": "AUCHI MICROFINANCE BANK",
+    "nipBankCode": "090264",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Awacash MFB",
+    "code": "090633",
+    "bankName": "AWACASH MICROFINANCE BANK",
+    "nipBankCode": "090633",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Babcock MFB",
+    "code": "090729",
+    "bankName": "BABCOCK MFB",
+    "nipBankCode": "090729",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Babura MFB",
+    "code": "090625",
+    "bankName": "BABURA MICROFINANCE BANK",
+    "nipBankCode": "090625",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Baines Credit Microfinance Bank",
+    "code": "090188",
+    "bankName": "BAINES CREDIT MICROFINANCE BANK",
+    "nipBankCode": "090188",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Balera Microfinance Bank",
+    "code": "090563",
+    "bankName": "BALERA MICROFINANCE BANK",
+    "nipBankCode": "090563",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Balogun Gambari Microfinance Bank",
+    "code": "090326",
+    "bankName": "BALOGUN GAMBARI MICROFINANCE BANK",
+    "nipBankCode": "090326",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Bam MFB",
+    "code": "090651",
+    "bankName": "BAM MICROFINANCE BANK",
+    "nipBankCode": "090651",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Banc Corp MFB",
+    "code": "090581",
+    "bankName": "BANC CORP MICROFINANCE BANK",
+    "nipBankCode": "090581",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "BAYERO MICROFINANCE BANK",
+    "code": "090316",
+    "bankName": "BAYERO UNIVERSITY MICROFINANCE BANK",
+    "nipBankCode": "090316",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "BC Kash Microfinance Bank",
+    "code": "090127",
+    "bankName": "BC KASH MICROFINANCE BANK",
+    "nipBankCode": "090127",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Berachah MFB",
+    "code": "090618",
+    "bankName": "BERACHAH MICROFINANCE BANK",
+    "nipBankCode": "090618",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Beststar MFB",
+    "code": "090615",
+    "bankName": "BESTSTAR MICROFINANCE BANK",
+    "nipBankCode": "090615",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Bethel MFB",
+    "code": "090683",
+    "bankName": "BETHEL MICROFINANCE BANK",
+    "nipBankCode": "090683",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Boctrust Microfinance Bank",
+    "code": "090117",
+    "bankName": "BOCTRUST MICROFINANCE BANK LIMITED",
+    "nipBankCode": "090117",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Bokkos MFB",
+    "code": "090703",
+    "bankName": "BOKKOS MICROFINANCE BANK",
+    "nipBankCode": "090703",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "BOLD MFB",
+    "code": "090753",
+    "bankName": "BOLD MFB",
+    "nipBankCode": "090753",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Borgu  Microfinance Bank",
+    "code": "090395",
+    "bankName": "BORGU  MICROFINANCE BANK",
+    "nipBankCode": "090395",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Bosak Microfinance Bank",
+    "code": "090176",
+    "bankName": "BOSAK MICROFINANCE BANK",
+    "nipBankCode": "090176",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "BOWEN MICROFINANCE BANK",
+    "code": "090148",
+    "bankName": "BOWEN MICROFINANCE BANK",
+    "nipBankCode": "090148",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Branch International Financial Services",
+    "code": "050006",
+    "bankName": "BRANCH INTERNATIONAL FINANCIAL SERVICES",
+    "nipBankCode": "050006",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "BRENT MORTGAGE BANK",
+    "code": "070015",
+    "bankName": "BRENT MORTGAGE BANK",
+    "nipBankCode": "070015",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Brethren Microfinance Bank",
+    "code": "090293",
+    "bankName": "BRETHREN MICROFINANCE BANK",
+    "nipBankCode": "090293",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Brightway Microfinance Bank",
+    "code": "090308",
+    "bankName": "BRIGHTWAY MICROFINANCE BANK",
+    "nipBankCode": "090308",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Broadview Microfinance Bank",
+    "code": "090568",
+    "bankName": "BROADVIEW MICROFINANCE BANK",
+    "nipBankCode": "090568",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Bundi MFB",
+    "code": "090661",
+    "bankName": "BUNDI MICROFINANCE BANK",
+    "nipBankCode": "090661",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Bunkure MFB",
+    "code": "090655",
+    "bankName": "Bunkure Microfinance Bank",
+    "nipBankCode": "090655",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Buypower",
+    "code": "090682",
+    "bankName": "BUYPOWER MICROFINANACE BANK",
+    "nipBankCode": "090682",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Canaan MFB",
+    "code": "090647",
+    "bankName": "CANAAN MICROFINANCE BANK",
+    "nipBankCode": "090647",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "CAPITALMETRIQ SWIFT MICROFINANCE BANK",
+    "code": "090509",
+    "bankName": "CAPITALMETRIQ SWIFT MFB",
+    "nipBankCode": "090509",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Capstone MF Bank",
+    "code": "090445",
+    "bankName": "CAPSTONE MICROFINANCE BANK",
+    "nipBankCode": "090445",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Carbon",
+    "code": "100026",
+    "bankName": "CARBON",
+    "nipBankCode": "100026",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Cashbridge MFB",
+    "code": "090634",
+    "bankName": "CASHBRIDGE MICROFINANCE BANK",
+    "nipBankCode": "090634",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "CashConnect Microfinance Bank",
+    "code": "090360",
+    "bankName": "CASHCONNECT MICROFINANCE BANK",
+    "nipBankCode": "090360",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Cashrite MFB",
+    "code": "090649",
+    "bankName": "CASHRITE MICROFINANCE BANK",
+    "nipBankCode": "090649",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Cedar Microfinance Bank",
+    "code": "090562",
+    "bankName": "CEDAR MICROFINANCE BANK",
+    "nipBankCode": "090562",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "CELLULANT",
+    "code": "317",
+    "bankName": "CELLULANT",
+    "nipBankCode": "100005",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "CEMCS MICROFINANCE BANK",
+    "code": "090154",
+    "bankName": "CEMCS MICROFINANCE BANK",
+    "nipBankCode": "090154",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Central Bank of Nigeria",
+    "code": "000028",
+    "bankName": "CBN",
+    "nipBankCode": "000028",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ChamsMobile",
+    "code": "303",
+    "bankName": "KEGOW(CHAMSMOBILE)",
+    "nipBankCode": "100036",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Chanelle Bank",
+    "code": "090397",
+    "bankName": "CHANELLE MICROFINANCE BANK",
+    "nipBankCode": "090397",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Changan RTS Microfinance Bank",
+    "code": "090470",
+    "bankName": "DOT MICROFINANCE BANK",
+    "nipBankCode": "090470",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Chase Microfinance Bank",
+    "code": "090523",
+    "bankName": "CHASE MICROFINANCE BANK",
+    "nipBankCode": "090523",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Chikum Microfinance Bank",
+    "code": "090141",
+    "bankName": "CHIKUM MICROFINANCE BANK",
+    "nipBankCode": "090141",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "CIT MICROFINANCE BANK",
+    "code": "090144",
+    "bankName": "Moneyfield MFB",
+    "nipBankCode": "090144",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Citibank Nigeria LTD",
+    "code": "023",
+    "bankName": "CITI BANK",
+    "nipBankCode": "000009",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000009"
+  },
+  {
+    "name": "City Code Mortgage Bank",
+    "code": "070027",
+    "bankName": "CITYCODE MORTGAGE BANK",
+    "nipBankCode": "070027",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Coastline Microfinance Bank",
+    "code": "090374",
+    "bankName": "COASTLINE MICROFINANCE BANK",
+    "nipBankCode": "090374",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Confidence MFB",
+    "code": "090530",
+    "bankName": "CONFIDENCE MICROFINANCE BANK",
+    "nipBankCode": "090530",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Conpro  Microfinance Bank",
+    "code": "090380",
+    "bankName": "KREDI MONEY MICROFINANCE BANK",
+    "nipBankCode": "090380",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Consistent Trust Microfinance Bank",
+    "code": "090553",
+    "bankName": "CONSISTENT TRUST MICROFINANCE BANK",
+    "nipBankCode": "090553",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "CONSUMER MICROFINANCE BANK",
+    "code": "090130",
+    "bankName": "CONSUMER MICROFINANCE BANK",
+    "nipBankCode": "090130",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "CONTEC GLOBAL INFOTECH LIMITED (NOWNOW)",
+    "code": "100032",
+    "bankName": "NOWNOW DIGITAL SYSTEMS LIMITED",
+    "nipBankCode": "100032",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Coop Mortgage Bank",
+    "code": "070021",
+    "bankName": "COOP MORTGAGE BANK",
+    "nipBankCode": "070021",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Coopfund MFB",
+    "code": "090717",
+    "bankName": "COOPFUND MFB",
+    "nipBankCode": "090717",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Corestep Microfinance Bank",
+    "code": "090365",
+    "bankName": "CORESTEP MICROFINANCE BANK",
+    "nipBankCode": "090365",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Coronation Merchant Bank",
+    "code": "559",
+    "bankName": "CORONATION MERCHANT BANK",
+    "nipBankCode": "060001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Covenant ",
+    "code": "551",
+    "bankName": "COVENANT MICROFINANCE BANK",
+    "nipBankCode": "070006",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Covenant MFB",
+    "code": "070006",
+    "bankName": "Covenant MFB",
+    "nipBankCode": "070006",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Credit Direct LTD",
+    "code": "110049",
+    "bankName": "CREDIT DIRECT LIMITED",
+    "nipBankCode": "110049",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Creditville MFB",
+    "code": "090611",
+    "bankName": "CREDITVILLE MICROFINANCE BANK",
+    "nipBankCode": "090611",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Crystal Finance Limited",
+    "code": "050029",
+    "bankName": "CRYSTAL FINANCE COMPANY LIMITED",
+    "nipBankCode": "050029",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "CS Advance",
+    "code": "050017",
+    "bankName": "Cardinalstone Finance",
+    "nipBankCode": "050017",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Daily Trust MFB",
+    "code": "090705",
+    "bankName": "DAILY TRUST MFB",
+    "nipBankCode": "090705",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "DAL MFB",
+    "code": "090596",
+    "bankName": "DAL MICROFINANCE BANK",
+    "nipBankCode": "090596",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Davenport MFB",
+    "code": "090673",
+    "bankName": "DAVENPORT MICROFINANCE BANK",
+    "nipBankCode": "090673",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Davodani Microfinance Bank",
+    "code": "090391",
+    "bankName": "DAVODANI  MICROFINANCE BANK",
+    "nipBankCode": "090391",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "DAYLIGHT MICROFINANCE BANK ",
+    "code": "090167",
+    "bankName": "DAYLIGHT MICROFINANCE BANK",
+    "nipBankCode": "090167",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Destiny MFB",
+    "code": "090723",
+    "bankName": "DESTINY MFB",
+    "nipBankCode": "090723",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "DIAMOND BANK PLC",
+    "code": "063",
+    "bankName": "ACCESS(DIAMOND) BANK",
+    "nipBankCode": "000005",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000005"
+  },
+  {
+    "name": "Digitvant MFB",
+    "code": "090745",
+    "bankName": "DIGITVANT MFB",
+    "nipBankCode": "090745",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Dignity Finance",
+    "code": "050013",
+    "bankName": "DIGNITY FINANCE AND INVESTMENT LIMITED",
+    "nipBankCode": "050013",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Diobu MFB",
+    "code": "090643",
+    "bankName": "DIOBU MICROFINANCE BANK",
+    "nipBankCode": "090643",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "DW MFB",
+    "code": "090721",
+    "bankName": "DW MFB",
+    "nipBankCode": "090721",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "e-Barcs Microfinance Bank",
+    "code": "090156",
+    "bankName": "E-BARCS MICROFINANCE BANK",
+    "nipBankCode": "090156",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "E-Finance",
+    "code": "050016",
+    "bankName": "E-FINANCE",
+    "nipBankCode": "050016",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Eagle Flight Microfinance Bank",
+    "code": "090294",
+    "bankName": "EAGLE FLIGHT MICROFINANCE BANK",
+    "nipBankCode": "090294",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Earnwell Microfinance Bank",
+    "code": "090674",
+    "bankName": "Earnwell MICROFINANCE BANK",
+    "nipBankCode": "090674",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Eartholeum",
+    "code": "100021",
+    "bankName": "EARTHOLEUM",
+    "nipBankCode": "100021",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ECOBANK NIGERIA PLC",
+    "code": "050",
+    "bankName": "ECOBANK",
+    "nipBankCode": "000010",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000010"
+  },
+  {
+    "name": "EcoMobile",
+    "code": "307",
+    "bankName": "ECOMOBILE",
+    "nipBankCode": "100030",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "EdFin Microfinance Bank",
+    "code": "090310",
+    "bankName": "EDFIN MICROFINANCE BANK",
+    "nipBankCode": "090310",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ejindu MFB",
+    "code": "090694",
+    "bankName": "EJINDU MICROFINANCE BANK",
+    "nipBankCode": "090694",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "EK-Reliable Microfinance Bank",
+    "code": "090389",
+    "bankName": "EK-RELIABLE MICROFINANCE BANK",
+    "nipBankCode": "090389",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ekondo MFB",
+    "code": "090097",
+    "bankName": "EKONDO MICROFINANCE BANK",
+    "nipBankCode": "090097",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "EKONDO MICROFINANCE BANK ",
+    "code": "562",
+    "bankName": "EKONDO MICROFINANCE BANK ",
+    "nipBankCode": "090097",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/090097"
+  },
+  {
+    "name": "Emaar MFB",
+    "code": "090712",
+    "bankName": "EMAAR MFB",
+    "nipBankCode": "090712",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Emeralds Microfinance Bank",
+    "code": "090273",
+    "bankName": "EMERALD MICROFINANCE BANK",
+    "nipBankCode": "090273",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "EMPIRE TRUST BANK",
+    "code": "090114",
+    "bankName": "EMPIRE TRUST MICROFINANCE BANK",
+    "nipBankCode": "090114",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Enco Finance",
+    "code": "050012",
+    "bankName": "ENCO FINANCE COMPANY LTD",
+    "nipBankCode": "050012",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Enrich Microfinance Bank",
+    "code": "090539",
+    "bankName": "HALO MICROFINANCE BANK",
+    "nipBankCode": "090539",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Entity MFB",
+    "code": "090656",
+    "bankName": "ENTITY MICROFINANCE BANK",
+    "nipBankCode": "090656",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Eso-E Microfinance Bank",
+    "code": "090166",
+    "bankName": "ESO-E MICROFINANCE BANK",
+    "nipBankCode": "090166",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "eTranzact",
+    "code": "306",
+    "bankName": "eTRANZACT",
+    "nipBankCode": "100006",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Evangel Microfinance Bank",
+    "code": "090304",
+    "bankName": "EVANGEL MICROFINANCE BANK",
+    "nipBankCode": "090304",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Evergreen Microfinance Bank",
+    "code": "090332",
+    "bankName": "EVERGREEN MICROFINANCE BANK",
+    "nipBankCode": "090332",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "EWT Microfinance Bank",
+    "code": "090572",
+    "bankName": "EWT Microfinance Bank",
+    "nipBankCode": "090572",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Eyowo",
+    "code": "090328",
+    "bankName": "EYOWO",
+    "nipBankCode": "090328",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Fairmoney Microfinance",
+    "code": "090551",
+    "bankName": "FairMoney",
+    "nipBankCode": "090551",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Fast Credit",
+    "code": "050009",
+    "bankName": "FAST CREDIT LIMITED",
+    "nipBankCode": "050009",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FAST MICROFINANCE BANK",
+    "code": "090179",
+    "bankName": "FAST MICROFINANCE BANK",
+    "nipBankCode": "090179",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FBN Mortgages Limited",
+    "code": "090107",
+    "bankName": "FIRST TRUST MORTGAGE BANK PLC",
+    "nipBankCode": "090107",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FBN Mortgages Limited ",
+    "code": "413",
+    "bankName": "FBN Mortgages Limited ",
+    "nipBankCode": "090107",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FBNMobile",
+    "code": "309",
+    "bankName": "FIRSTMONIE WALLET",
+    "nipBankCode": "100014",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FBNQuest Merchant Bank Limited",
+    "code": "060002",
+    "bankName": "FBNQUEST MERCHANT BANK",
+    "nipBankCode": "060002",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Federal Polytechnic Nekede Microfinance Bank",
+    "code": "090398",
+    "bankName": "FEDERAL POLYTECHNIC NEKEDE MICROFINANCE BANK",
+    "nipBankCode": "090398",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Federal University Dutse Microfinance Bank",
+    "code": "090318",
+    "bankName": "FEDERAL UNIVERSITY DUTSE MICROFINANCE BANK",
+    "nipBankCode": "090318",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Fedeth Microfinance Bank",
+    "code": "090482",
+    "bankName": "CLEARPAY MICROFINANCE BANK",
+    "nipBankCode": "090482",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FedPoly Nasarawa Microfinance Bank",
+    "code": "090298",
+    "bankName": "FEDPOLY NASARAWA MICROFINANCE BANK",
+    "nipBankCode": "090298",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FET",
+    "code": "314",
+    "bankName": "FETS",
+    "nipBankCode": "100001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FET",
+    "code": "100001",
+    "bankName": "FET",
+    "nipBankCode": "100001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FEWCHORE FINANCE COMPANY LIMITED",
+    "code": "050002",
+    "bankName": "FEWCHORE FINANCE COMPANY LIMITED",
+    "nipBankCode": "050002",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FFS MICROFINANCE BANK",
+    "code": "090153",
+    "bankName": "FFS MICROFINANCE BANK",
+    "nipBankCode": "090153",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FIDELITY BANK PLC",
+    "code": "070",
+    "bankName": "FIDELITY BANK",
+    "nipBankCode": "000007",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000007"
+  },
+  {
+    "name": "Fidelity Mobile",
+    "code": "318",
+    "bankName": "FIDELITY MOBILE",
+    "nipBankCode": "100019",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FidFund MFB",
+    "code": "090126",
+    "bankName": "FIDFUND MICROFINANCE Bank",
+    "nipBankCode": "090126",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FINATRUST MICROFINANCE BANK",
+    "code": "608",
+    "bankName": "FINATRUST MICROFINANCE BANK",
+    "nipBankCode": "090111",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Finca Microfinance Bank",
+    "code": "090400",
+    "bankName": "FINCA MICROFINANCE BANK",
+    "nipBankCode": "090400",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Firmus Microfinance Bank",
+    "code": "090366",
+    "bankName": "FIRMUS MICROFINANCE BANK",
+    "nipBankCode": "090366",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FIRST BANK OF NIGERIA PLC",
+    "code": "011",
+    "bankName": "FIRST BANK OF NIGERIA",
+    "nipBankCode": "000016",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000016"
+  },
+  {
+    "name": "FIRST CITY MONUMENT BANK PLC",
+    "code": "214",
+    "bankName": "FIRST CITY MONUMENT BANK",
+    "nipBankCode": "000003",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000003"
+  },
+  {
+    "name": "First Generation Mortgage Bank",
+    "code": "070014",
+    "bankName": "FIRST GENERATION MORTGAGE BANK",
+    "nipBankCode": "070014",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "First Option Microfinance Bank",
+    "code": "090285",
+    "bankName": "FIRST OPTION MICROFINANCE BANK",
+    "nipBankCode": "090285",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FIRST ROYAL MICROFINANCE BANK",
+    "code": "090164",
+    "bankName": "FIRST ROYAL MICROFINANCE BANK",
+    "nipBankCode": "090164",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Flourish MFB",
+    "code": "090614",
+    "bankName": "AELLA MICROFINANCE BANK",
+    "nipBankCode": "090614",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Focus MFB",
+    "code": "090709",
+    "bankName": "FOCUS MFB",
+    "nipBankCode": "090709",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Fortis Microfinance Bank",
+    "code": "308",
+    "bankName": "FORTIS MICROFINANCE BANK",
+    "nipBankCode": "070002",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Fortis Microfinance Bank",
+    "code": "070002",
+    "bankName": "Fortis Microfinance Bank",
+    "nipBankCode": "070002",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FortisMobile",
+    "code": "100016",
+    "bankName": "FORTIS MOBILE",
+    "nipBankCode": "100016",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Fortress Microfinance Bank",
+    "code": "090486",
+    "bankName": "FORTRESS MICROFINANCE BANK",
+    "nipBankCode": "090486",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "FSDH MERCHANT BANK LIMIT",
+    "code": "601",
+    "bankName": "FSDH",
+    "nipBankCode": "400001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Fullrange Microfinance Bank",
+    "code": "090145",
+    "bankName": "FULLRANGE MICROFINANCE BANK",
+    "nipBankCode": "090145",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Futo Microfinance Bank",
+    "code": "090158",
+    "bankName": "FUTO MICROFINANCE BANK",
+    "nipBankCode": "090158",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Gabasawa MFB",
+    "code": "090582",
+    "bankName": "GABASAWA MICROFINANCE BANK",
+    "nipBankCode": "090582",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Gabsyn Microfinance Bank Limited",
+    "code": "090591",
+    "bankName": "GABSYN MICROFINANCE BANK",
+    "nipBankCode": "090591",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Gashua Microfinance Bank",
+    "code": "090168",
+    "bankName": "GASHUA MICROFINANCE BANK",
+    "nipBankCode": "090168",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GATEWAY MORTGAGE BANK",
+    "code": "070009",
+    "bankName": "GATEWAY MORTGAGE BANK",
+    "nipBankCode": "070009",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GDL Finance and Leasing Company Limited",
+    "code": "050026",
+    "bankName": "GDL FINANCE",
+    "nipBankCode": "050026",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Gidauniyar Alheri MFB",
+    "code": "090621",
+    "bankName": "GIDAUNIYAR ALHERI MICROFINANCE BANK",
+    "nipBankCode": "090621",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Girei Microfinance Bank",
+    "code": "090186",
+    "bankName": "GIREI MICROFINANACE BANK",
+    "nipBankCode": "090186",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Global Initiative MFB",
+    "code": "090639",
+    "bankName": "GLOBAL INITIATIVE MICROFINANCE BANK",
+    "nipBankCode": "090639",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Globus Bank",
+    "code": "000027",
+    "bankName": "GLOBUS BANK",
+    "nipBankCode": "000027",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000027"
+  },
+  {
+    "name": "Glory Microfinance Bank",
+    "code": "090278",
+    "bankName": "GLORY MICROFINANCE BANK",
+    "nipBankCode": "090278",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GMB Microfinance Bank",
+    "code": "090408",
+    "bankName": "GMB MICROFINANCE BANK",
+    "nipBankCode": "090408",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GOLDMAN MFB",
+    "code": "090574",
+    "bankName": "GOLDMAN MFB",
+    "nipBankCode": "090574",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Gombe MFB",
+    "code": "090586",
+    "bankName": "GOMBE MICROFINANCE BANK LIMITED",
+    "nipBankCode": "090586",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GoMoney",
+    "code": "100022",
+    "bankName": "STERLING MOBILE",
+    "nipBankCode": "100022",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Good Shephard MFB",
+    "code": "090664",
+    "bankName": "GOOD SHEPHERD MICROFINANCE BANK",
+    "nipBankCode": "090664",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Goodnews Microfinance Bank",
+    "code": "090495",
+    "bankName": "PROSPA CAPITAL MICROFINANCE BANK",
+    "nipBankCode": "090495",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Gosifechukwu MFB",
+    "code": "090687",
+    "bankName": "GOSIFECHUKWU MICROFINANCE BANK",
+    "nipBankCode": "090687",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GOWANS MFB",
+    "code": "090122",
+    "bankName": "GOWANS MICROFINANCE BANK",
+    "nipBankCode": "090122",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Grant Microfinance Bank",
+    "code": "090335",
+    "bankName": "GRANTS MICROFINANCE BANK",
+    "nipBankCode": "090335",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Green Energy Microfinance Bank",
+    "code": "090550",
+    "bankName": "GREEN ENERGY MICROFINANCE BANK",
+    "nipBankCode": "090550",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GREENBANK MICROFINANCE BANK",
+    "code": "090178",
+    "bankName": "GREENBANK MICROFINANCE BANK",
+    "nipBankCode": "090178",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Greenville Microfinance Bank",
+    "code": "090269",
+    "bankName": "GREENVILLE MICROFINANCE BANK",
+    "nipBankCode": "090269",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Greenwich Merchant Bank",
+    "code": "060004",
+    "bankName": "GREENWICH MERCHANT BANK",
+    "nipBankCode": "060004",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Grooming Microfinance Bank",
+    "code": "090195",
+    "bankName": "GROOMING MICROFINANCE BANK",
+    "nipBankCode": "090195",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GTI Microfinance Bank",
+    "code": "090385",
+    "bankName": "GTI MICROFINANCE BANK",
+    "nipBankCode": "090385",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "GTMobile",
+    "code": "315",
+    "bankName": "GT MOBILE",
+    "nipBankCode": "100009",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Guaranty Trust Bank",
+    "code": "058",
+    "bankName": "GTBANK PLC",
+    "nipBankCode": "000013",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000013"
+  },
+  {
+    "name": "Gwong MFB",
+    "code": "090500",
+    "bankName": "GWONG MICROFINANCE BANK",
+    "nipBankCode": "090500",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Haggai Mortgage Bank Limited",
+    "code": "070017",
+    "bankName": "HAGGAI MORTGAGE BANK LIMITED",
+    "nipBankCode": "070017",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Halal Credit Microfinance Bank",
+    "code": "090291",
+    "bankName": "HALALCREDIT MICROFINANCE BANK",
+    "nipBankCode": "090291",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "HASAL MICROFINANCE BANK",
+    "code": "090121",
+    "bankName": "HASAL MICROFINANCE BANK",
+    "nipBankCode": "090121",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Headway Microfinance Bank",
+    "code": "090363",
+    "bankName": "HEADWAY MICROFINANCE BANK",
+    "nipBankCode": "090363",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Hedonmark",
+    "code": "324",
+    "bankName": "HEDONMARK",
+    "nipBankCode": "100017",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Hedonmark",
+    "code": "100017",
+    "bankName": "Hedonmark",
+    "nipBankCode": "100017",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Heritage Bank",
+    "code": "030",
+    "bankName": "HERITAGE BANK",
+    "nipBankCode": "000020",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000020"
+  },
+  {
+    "name": "HIGHSTREET MICROFINANCE BANK",
+    "code": "090175",
+    "bankName": "RUBIES MICROFINANCE BANK",
+    "nipBankCode": "090175",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "HopePSB",
+    "code": "120002",
+    "bankName": "HOPEPSB",
+    "nipBankCode": "120002",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "IBBU MFB",
+    "code": "090697",
+    "bankName": "IBBU MFB",
+    "nipBankCode": "090697",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "IBILE MFB",
+    "code": "090118",
+    "bankName": "IBILE MICROFINANCE BANK",
+    "nipBankCode": "090118",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "IBOLO Microfinance Bank",
+    "code": "090532",
+    "bankName": "IBOLO MICROFINANCE BANK",
+    "nipBankCode": "090532",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ihiala MFB",
+    "code": "090725",
+    "bankName": "IHIALA MFB",
+    "nipBankCode": "090725",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ijare MFB",
+    "code": "090730",
+    "bankName": "IJARE MFB",
+    "nipBankCode": "090730",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ijebu-Ife Microfinance Bank",
+    "code": "090546",
+    "bankName": "IJEBU-IFE MICROFINANCE BANK",
+    "nipBankCode": "090546",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ikenne Microfinance Bank",
+    "code": "090324",
+    "bankName": "IKENNE MICROFINANCE BANK",
+    "nipBankCode": "090324",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ikire Microfinance Bank",
+    "code": "090279",
+    "bankName": "IKIRE MICROFINANCE BANK",
+    "nipBankCode": "090279",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ikoyi-Ile MFB",
+    "code": "090681",
+    "bankName": "IKOYI ILE MICROFINANCEBANK",
+    "nipBankCode": "090681",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ilaro Poly Microfinance Bank",
+    "code": "090571",
+    "bankName": "ILARO POLY MICROFINANCE BANK",
+    "nipBankCode": "090571",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ile-Oluji MFB",
+    "code": "090710",
+    "bankName": "ILE-OLUJI MFB",
+    "nipBankCode": "090710",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ilisan Microfinance Bank",
+    "code": "090370",
+    "bankName": "ILISAN MICROFINANCE BANK",
+    "nipBankCode": "090370",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ilora Microfinance Bank",
+    "code": "090430",
+    "bankName": "ILORA MICROFINANCE BANK",
+    "nipBankCode": "090430",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Imo State Microfinance Bank",
+    "code": "090258",
+    "bankName": "IMO STATE MICROFINANCE BANK",
+    "nipBankCode": "090258",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Imperial Homes Mortgage Bank",
+    "code": "100024",
+    "bankName": "IMPERIAL HOMES MORTGAGE BANK",
+    "nipBankCode": "100024",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "IMPERIAL HOMES MORTGAGE BANK",
+    "code": "415",
+    "bankName": "IMPERIAL HOMES MORTGAGE BANK",
+    "nipBankCode": "100024",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "IMSU MFB",
+    "code": "090670",
+    "bankName": "IMSU MICROFINANCE BANK",
+    "nipBankCode": "090670",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "INFINITY MICROFINANCE BANK",
+    "code": "090157",
+    "bankName": "INFINITY MICROFINANCE BANK",
+    "nipBankCode": "090157",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "INFINITY TRUST MORTGAGE BANK",
+    "code": "070016",
+    "bankName": "INFINITY TRUST MORTGAGE BANK",
+    "nipBankCode": "070016",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Intellifin",
+    "code": "100027",
+    "bankName": "INTELLIFIN",
+    "nipBankCode": "100027",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Interland Microfinance Bank",
+    "code": "090386",
+    "bankName": "INTERLAND MICROFINANCE BANK",
+    "nipBankCode": "090386",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "IRL Microfinance Bank",
+    "code": "090149",
+    "bankName": "IRL MICROFINANCE BANK",
+    "nipBankCode": "090149",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Isaleoyo Microfinance Bank",
+    "code": "090377",
+    "bankName": "ISALEOYO MICROFINANCE BANK",
+    "nipBankCode": "090377",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Island Microfinance Bank",
+    "code": "090584",
+    "bankName": "ISLAND MICROFINANCE BANK",
+    "nipBankCode": "090584",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ISUA Microfinance Bank",
+    "code": "090701",
+    "bankName": "ISUA MICROFINANCE BANK",
+    "nipBankCode": "090701",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Iyeru Okin Microfinance Bank",
+    "code": "090337",
+    "bankName": "IYE OKIN MICROFINANCE BANK LTD",
+    "nipBankCode": "090337",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Iyin Ekiti MFB",
+    "code": "090620",
+    "bankName": "LOMA MFB",
+    "nipBankCode": "090620",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "JAIZ BANK PLC",
+    "code": "301",
+    "bankName": "JAIZ BANK",
+    "nipBankCode": "000006",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Jigawa Savings and Loans Limited",
+    "code": "070029",
+    "bankName": "Jigawa Savings and Loans",
+    "nipBankCode": "070029",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "JUBILEE LIFE MORTGAGE BANK",
+    "code": "402",
+    "bankName": "JUBILEE LIFE",
+    "nipBankCode": "090003",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Jubilee-Life Mortgage  Bank",
+    "code": "090003",
+    "bankName": "Jubilee-Life Mortgage  Bank",
+    "nipBankCode": "090003",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "KadPoly Microfinance Bank",
+    "code": "090320",
+    "bankName": "KADPOLY MICROFINANCE BANK",
+    "nipBankCode": "090320",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Kadupe MFB",
+    "code": "090669",
+    "bankName": "KADUPE MICROFINANCE BANK",
+    "nipBankCode": "090669",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Kayi MFB",
+    "code": "090667",
+    "bankName": "KAYI MICROFINANCE BANK",
+    "nipBankCode": "090667",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Kayvee Microfinance Bank",
+    "code": "090554",
+    "bankName": "KAYVEE MICROFINANCE BANK",
+    "nipBankCode": "090554",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "KC Microfinance Bank",
+    "code": "090549",
+    "bankName": "KC MICROFINANCE BANK",
+    "nipBankCode": "090549",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "KCMB Microfinance Bank",
+    "code": "090191",
+    "bankName": "KCMB MICROFINANCE BANK",
+    "nipBankCode": "090191",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Kegow (Chamsmobile)",
+    "code": "100036",
+    "bankName": "Kegow (Chamsmobile)",
+    "nipBankCode": "100036",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "KEYSTONE BANK",
+    "code": "082",
+    "bankName": "KEYSTONE BANK",
+    "nipBankCode": "000002",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000002"
+  },
+  {
+    "name": "KKU MFB",
+    "code": "090606",
+    "bankName": "KKU MICROFINANCE BANK",
+    "nipBankCode": "090606",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "KMFB",
+    "code": "090691",
+    "bankName": "GARUN MALLAM MFB",
+    "nipBankCode": "090691",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Kolomoni MFB",
+    "code": "090480",
+    "bankName": "KOLOMONI MICROFINANCE BANK",
+    "nipBankCode": "090480",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "KongaPay",
+    "code": "100025",
+    "bankName": "KONGAPAY",
+    "nipBankCode": "100025",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Kontagora Microfinance Bank",
+    "code": "090299",
+    "bankName": "KONTAGORA MICROFINANCE BANK",
+    "nipBankCode": "090299",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Kopo Kope MFB",
+    "code": "090617",
+    "bankName": "KOPO KOPE MICROFINANCE BANK",
+    "nipBankCode": "090617",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Kuda",
+    "code": "090267",
+    "bankName": "KUDA MICROFINANCE BANK",
+    "nipBankCode": "090267",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/090267"
+  },
+  {
+    "name": "LAGOS BUILDING INVESTMENT COMPANY",
+    "code": "070012",
+    "bankName": "LAGOS BUILDING AND INVESTMENT COMPANY",
+    "nipBankCode": "070012",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "LAPO Microfinance Bank",
+    "code": "090177",
+    "bankName": "LAPO MICROFINANCE BANK",
+    "nipBankCode": "090177",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Lavender Microfinance Bank",
+    "code": "090271",
+    "bankName": "LAVENDER MICROFINANCE BANK",
+    "nipBankCode": "090271",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Lawyers MFB",
+    "code": "090724",
+    "bankName": "LAWYERS MFB",
+    "nipBankCode": "090724",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Leadcity MFB",
+    "code": "090650",
+    "bankName": "LEADCITY MICROFINANCE BANK",
+    "nipBankCode": "090650",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Legend Microfinance Bank",
+    "code": "090372",
+    "bankName": "LEGEND MICROFINANCE BANK",
+    "nipBankCode": "090372",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "LETSHEGO MICROFINANCE BANK",
+    "code": "090420",
+    "bankName": "LETSHEGO MICROFINANCE BANK",
+    "nipBankCode": "090420",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Levite MFB",
+    "code": "090731",
+    "bankName": "LEVITE MFB",
+    "nipBankCode": "090731",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Lifegate Microfinance Bank",
+    "code": "090557",
+    "bankName": "LIFEGATE MICROFINANCE BANK",
+    "nipBankCode": "090557",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Links  Microfinance Bank",
+    "code": "090435",
+    "bankName": "LINKS MICROFINANCE BANK",
+    "nipBankCode": "090435",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "LOTUS Bank",
+    "code": "000029",
+    "bankName": "LOTUS BANK",
+    "nipBankCode": "000029",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Lovonus Microfinance Bank",
+    "code": "090265",
+    "bankName": "LOVONUS MICROFINANCE BANK",
+    "nipBankCode": "090265",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Lukefield Finance Company Limited",
+    "code": "050015",
+    "bankName": "LUKEFIELD FINANCE COMPANY LIMITED",
+    "nipBankCode": "050015",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "M&M MFB",
+    "code": "090685",
+    "bankName": "Moremonee Microfinance Bank Limited",
+    "nipBankCode": "090685",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "M36",
+    "code": "100035",
+    "bankName": "M36",
+    "nipBankCode": "100035",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MAB Allianz MFB",
+    "code": "090623",
+    "bankName": "MAB ALLIANZ MICROFINANCE BANK",
+    "nipBankCode": "090623",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mabinas MFB",
+    "code": "090630",
+    "bankName": "MABINAS MICROFINANCE BANK",
+    "nipBankCode": "090630",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Macrod MFB",
+    "code": "090603",
+    "bankName": "MACROD MICROFINANCE BANK LIMITED",
+    "nipBankCode": "090603",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Madobi MFB",
+    "code": "090605",
+    "bankName": "MADOBI MICROFINANCE BANK",
+    "nipBankCode": "090605",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Maestro MFB",
+    "code": "090746",
+    "bankName": "MAESTRO MFB",
+    "nipBankCode": "090746",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mainland Microfinance Bank",
+    "code": "090323",
+    "bankName": "MAINLAND MICROFINANCE BANK",
+    "nipBankCode": "090323",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mainstreet Microfinance Bank",
+    "code": "090171",
+    "bankName": "MAINSTREET MICROFINANCE BANK",
+    "nipBankCode": "090171",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MALACHY MICROFINANCE BANK",
+    "code": "090174",
+    "bankName": "MALACHY MICROFINANCE BANK",
+    "nipBankCode": "090174",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Maritime Microfinance Bank",
+    "code": "090410",
+    "bankName": "MARITIME MICROFINANCE BANK",
+    "nipBankCode": "090410",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MayFresh Mortgage Bank",
+    "code": "070019",
+    "bankName": "MAYFRESH MORTGAGE BANK",
+    "nipBankCode": "070019",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Medef Microfinance Bank",
+    "code": "090612",
+    "bankName": "MEDEF MICROFINANCE BANK",
+    "nipBankCode": "090612",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Megapraise Microfinance Bank",
+    "code": "090280",
+    "bankName": "MEGAPRAISE MICROFINANCE BANK",
+    "nipBankCode": "090280",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MERIDIAN MFB",
+    "code": "090275",
+    "bankName": "BANKIT MICROFINANCE BANK",
+    "nipBankCode": "090275",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Microbiz MFB",
+    "code": "090587",
+    "bankName": "MICROBIZ MICROFINANCE BANK",
+    "nipBankCode": "090587",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Microcred Microfinance Bank Nigeria Ltd",
+    "code": "090136",
+    "bankName": "BAOBAB MICROFINANCE BANK",
+    "nipBankCode": "090136",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MICROVIS MICROFINANCE BANK",
+    "code": "090113",
+    "bankName": "MICROVIS MICROFINANCE BANK",
+    "nipBankCode": "090113",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Midland Microfinance Bank",
+    "code": "090192",
+    "bankName": "MIDLAND MICROFINANCE BANK",
+    "nipBankCode": "090192",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MINJIBIR MFB",
+    "code": "090607",
+    "bankName": "MINJIBIR MICROFINANCE BANK",
+    "nipBankCode": "090607",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MintFinex Microfinance Bank",
+    "code": "090281",
+    "bankName": "MINT-FINEX MFB",
+    "nipBankCode": "090281",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mkobo Microfinance Bank",
+    "code": "090455",
+    "bankName": "MKOBO MFB",
+    "nipBankCode": "090455",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mkudi",
+    "code": "313",
+    "bankName": "MKUDI",
+    "nipBankCode": "100011",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mkudi",
+    "code": "100011",
+    "bankName": "Mkudi",
+    "nipBankCode": "100011",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Molusi Microfinance Bank",
+    "code": "090362",
+    "bankName": "MOLUSI MICROFINANCE BANK",
+    "nipBankCode": "090362",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MoMo PSB",
+    "code": "120003",
+    "bankName": "MOMO PAYMENT SERVICE BANK",
+    "nipBankCode": "120003",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Money Master PSB",
+    "code": "120005",
+    "bankName": "Money Master PSB",
+    "nipBankCode": "120005",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MONEY TRUST MICROFINANCE BANK",
+    "code": "090129",
+    "bankName": "MONEY TRUST MICROFINANCE BANK",
+    "nipBankCode": "090129",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MoneyBox",
+    "code": "100020",
+    "bankName": "MONEY BOX",
+    "nipBankCode": "100020",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MoneyBox ",
+    "code": "325",
+    "bankName": "MoneyBox ",
+    "nipBankCode": "100020",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Moniepoint Microfinance Bank",
+    "code": "090405",
+    "bankName": "MONIEPOINT MICROFINANCE BANK",
+    "nipBankCode": "090405",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MOUA MFB",
+    "code": "090659",
+    "bankName": "MICHAEL OKPARA UNIAGRIC UNIVERSITY MFB",
+    "nipBankCode": "090659",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mozfin Microfinance Bank",
+    "code": "090392",
+    "bankName": "MOZFIN MICROFINANCE BANK",
+    "nipBankCode": "090392",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mutual Alliance Mortgage Bank",
+    "code": "070028",
+    "bankName": "MUTUAL ALLIANCE MORTGAGE BANK",
+    "nipBankCode": "070028",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Mutual Benefits Microfinance Bank",
+    "code": "090190",
+    "bankName": "MUTUAL BENEFITS MICROFINANCE BANK",
+    "nipBankCode": "090190",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "MUTUAL TRUST MICROFINANCE BANK",
+    "code": "090151",
+    "bankName": "MUTUAL TRUST MICROFINANCE BANK",
+    "nipBankCode": "090151",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "NAF MFB",
+    "code": "090740",
+    "bankName": "NAF MFB",
+    "nipBankCode": "090740",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Nagarta Microfinance Bank",
+    "code": "090152",
+    "bankName": "NAGARTA MICROFINANCE BANK",
+    "nipBankCode": "090152",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Navy Microfinance Bank",
+    "code": "090263",
+    "bankName": "NIGERIAN NAVY MICROFINANCE BANK",
+    "nipBankCode": "090263",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "NDIORAH MICROFINANCE BANK ",
+    "code": "090128",
+    "bankName": "NDIORAH MICROFINANCE BANK",
+    "nipBankCode": "090128",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Neptune Microfinance Bank",
+    "code": "090329",
+    "bankName": "NEPTUNE MICROFINANCE BANK",
+    "nipBankCode": "090329",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "NET MFB",
+    "code": "090675",
+    "bankName": "NET MICROFINANCE BANK",
+    "nipBankCode": "090675",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "New Dawn Microfinance Bank",
+    "code": "090205",
+    "bankName": "NEW DAWN MICROFINANCE BANK",
+    "nipBankCode": "090205",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "New Golden Pastures Microfinance Bank",
+    "code": "090378",
+    "bankName": "NEW GOLDEN PASTURES MICROFINANCE BANK",
+    "nipBankCode": "090378",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "New Prudential Bank",
+    "code": "561",
+    "bankName": "NEW PRUDENTIAL BANK",
+    "nipBankCode": "090108",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "New Prudential Bank",
+    "code": "090108",
+    "bankName": "New Prudential Bank",
+    "nipBankCode": "090108",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "NEXIM Bank",
+    "code": "030001",
+    "bankName": "NEXIM BANK",
+    "nipBankCode": "030001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "NIRSAL Microfinance Bank",
+    "code": "090194",
+    "bankName": "NIRSAL NATIONAL MICROFINANCE BANK",
+    "nipBankCode": "090194",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Nnew Women Microfinance Bank",
+    "code": "090283",
+    "bankName": "NNEW WOMEN MICROFINANCE BANK",
+    "nipBankCode": "090283",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "NOVA MERCHANT BANK LTD",
+    "code": "060003",
+    "bankName": "NOVA BANK",
+    "nipBankCode": "060003",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Novus MFB",
+    "code": "090734",
+    "bankName": "NOVUS MFB",
+    "nipBankCode": "090734",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "NPF MicroFinance Bank",
+    "code": "070001",
+    "bankName": "NPF MICROFINANCE BANK",
+    "nipBankCode": "070001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "NPF Microfinance Bank ",
+    "code": "552",
+    "bankName": "NPF Microfinance Bank ",
+    "nipBankCode": "070001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Nsehe MFB",
+    "code": "090628",
+    "bankName": "NSEHE MICROFINANCE BANK",
+    "nipBankCode": "090628",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Nuggets MFB",
+    "code": "090676",
+    "bankName": "NUGGETS MICROFINANCE BANK",
+    "nipBankCode": "090676",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Nwannegadi Microfinance Bank",
+    "code": "090399",
+    "bankName": "NWANNEGADI MICROFINANCE BANK",
+    "nipBankCode": "090399",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Oche Microfinance Bank",
+    "code": "090333",
+    "bankName": "OCHE MICROFINANCE BANK",
+    "nipBankCode": "090333",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Octopus Microfinance Bank",
+    "code": "090576",
+    "bankName": "OCTOPUS MFB",
+    "nipBankCode": "090576",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Odoakpu MFB",
+    "code": "090654",
+    "bankName": "ODOAKPU Microfinance Bank",
+    "nipBankCode": "090654",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ogberuru MFB",
+    "code": "090738",
+    "bankName": "OGBERURU MFB",
+    "nipBankCode": "090738",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ogige MFB",
+    "code": "090739",
+    "bankName": "OGIGE MFB",
+    "nipBankCode": "090739",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "OHAFIA MFB",
+    "code": "090119",
+    "bankName": "OHAFIA MICROFINANCE BANK",
+    "nipBankCode": "090119",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ohha MFB",
+    "code": "090626",
+    "bankName": "OHHA MICROFINANCE BANK",
+    "nipBankCode": "090626",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Oke-Aro Oredegbe Microfinance Bank",
+    "code": "090565",
+    "bankName": "OKE-ARO OREDEGBE MFB",
+    "nipBankCode": "090565",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Okengwe MFB",
+    "code": "090646",
+    "bankName": "OKENGWE MICROFINANCE BANK",
+    "nipBankCode": "090646",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "OKPOGA MICROFINANCE BANK",
+    "code": "090161",
+    "bankName": "OKPOGA MICROFINANCE BANK",
+    "nipBankCode": "090161",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Okuku Microfinance Bank",
+    "code": "090566",
+    "bankName": "OKUKU MICROFINANCE BANK",
+    "nipBankCode": "090566",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Olabisi Onabanjo University Microfinance Bank",
+    "code": "090272",
+    "bankName": "OLABISI ONABANJO UNIVERSITY MICROFINANCE",
+    "nipBankCode": "090272",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Olive MFB",
+    "code": "090696",
+    "bankName": "Olive MFB",
+    "nipBankCode": "090696",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Olowolagba Microfinance Bank",
+    "code": "090404",
+    "bankName": "Doje Microfinance Bank Limited",
+    "nipBankCode": "090404",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Omak MFB",
+    "code": "090700",
+    "bankName": "OMAK MICROFINANCE BANK",
+    "nipBankCode": "090700",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Omiye Microfinance Bank",
+    "code": "090295",
+    "bankName": "OMIYE MICROFINANCE BANK",
+    "nipBankCode": "090295",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Omoluabi savings and loans",
+    "code": "070007",
+    "bankName": "LIVINGTRUST MORTGAGE BANK PLC",
+    "nipBankCode": "070007",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Omoluabi Savings and Loans Plc",
+    "code": "606",
+    "bankName": "Omoluabi Savings and Loans Plc",
+    "nipBankCode": "070007",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "OPAY(PAYCOM)",
+    "code": "305",
+    "bankName": "OPAY",
+    "nipBankCode": "100004",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Optimus Bank",
+    "code": "000036",
+    "bankName": "OPTIMUS BANK",
+    "nipBankCode": "000036",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Orokam Microfinance Bank",
+    "code": "090567",
+    "bankName": "OROKAM MICROFINANCE BANK",
+    "nipBankCode": "090567",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Oscotech Microfinance Bank",
+    "code": "090396",
+    "bankName": "OSCOTECH MICROFINANCE BANK",
+    "nipBankCode": "090396",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Osomhe MFB",
+    "code": "090715",
+    "bankName": "OSOMHE MFB",
+    "nipBankCode": "090715",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Otech Microfinance Bank",
+    "code": "090580",
+    "bankName": "OTECH MICROFINANCE BANK",
+    "nipBankCode": "090580",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Otuo Microfinance Bank",
+    "code": "090542",
+    "bankName": "OTUO MICROFINANCE BANK",
+    "nipBankCode": "090542",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Oyan MFB",
+    "code": "090635",
+    "bankName": "OYAN MICROFINANCE BANK",
+    "nipBankCode": "090635",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PAGA",
+    "code": "327",
+    "bankName": "PAGA",
+    "nipBankCode": "100002",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/100002"
+  },
+  {
+    "name": "Page Financials",
+    "code": "070008",
+    "bankName": "PAGE MFBank",
+    "nipBankCode": "070008",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Page MFBank",
+    "code": "560",
+    "bankName": "Page MFBank",
+    "nipBankCode": "070008",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PALMPAY",
+    "code": "100033",
+    "bankName": "PALMPAY",
+    "nipBankCode": "100033",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PARALLEX BANK",
+    "code": "526",
+    "bankName": "PARALLEX BANK",
+    "nipBankCode": "000030",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PARALLEX MFB",
+    "code": "000030",
+    "bankName": "PARALLEX MFB",
+    "nipBankCode": "000030",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Parkway",
+    "code": "311",
+    "bankName": "Parkway MFB",
+    "nipBankCode": "090390",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Parkway MF Bank",
+    "code": "090390",
+    "bankName": "Parkway MF Bank",
+    "nipBankCode": "090390",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PatrickGold Microfinance Bank",
+    "code": "090317",
+    "bankName": "PATRICKGOLD MICROFINANCE BANK",
+    "nipBankCode": "090317",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PayAttitude Online ",
+    "code": "110001",
+    "bankName": "PAYATTITUDE ONLINE",
+    "nipBankCode": "110001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PAYSTACK-TITAN MICROFINANCE BANK",
+    "code": "100039",
+    "bankName": "TITAN-PAYSTACK",
+    "nipBankCode": "100039",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Peace Microfinance Bank",
+    "code": "090402",
+    "bankName": "PEACE MICROFINANCE BANK",
+    "nipBankCode": "090402",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PECANTRUST MICROFINANCE BANK",
+    "code": "090137",
+    "bankName": "PECANTRUST MICROFINANCE BANK",
+    "nipBankCode": "090137",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Pennywise Microfinance Bank",
+    "code": "090196",
+    "bankName": "PENNYWISE MICROFINANCE BANK",
+    "nipBankCode": "090196",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Personal Trust Microfinance Bank",
+    "code": "090135",
+    "bankName": "PERSONAL TRUST MICROFINANCE BANK",
+    "nipBankCode": "090135",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PETRA MICROFINANCE BANK",
+    "code": "090165",
+    "bankName": "PETRA MICROFINANCE BANK",
+    "nipBankCode": "090165",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PFI Finance Company Limited",
+    "code": "050021",
+    "bankName": "Poder finance",
+    "nipBankCode": "050021",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Pillar Microfinance Bank",
+    "code": "090289",
+    "bankName": "PILLAR MICROFINANCE BANK",
+    "nipBankCode": "090289",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PLATINUM MORTGAGE BANK",
+    "code": "070013",
+    "bankName": "PLATINUM MORTGAGE BANK",
+    "nipBankCode": "070013",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "POLARIS BANK LTD (SKYE BANK PLC)",
+    "code": "076",
+    "bankName": "POLARIS BANK",
+    "nipBankCode": "000008",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000008"
+  },
+  {
+    "name": "Polyunwana Microfinance Bank",
+    "code": "090296",
+    "bankName": "POLYUNWANA MICROFINANCE BANK",
+    "nipBankCode": "090296",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Premium Trust Bank",
+    "code": "000031",
+    "bankName": "PREMIUM TRUST  BANK",
+    "nipBankCode": "000031",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Prestige Microfinance Bank",
+    "code": "090274",
+    "bankName": "PRESTIGE MICROFINANCE BANK",
+    "nipBankCode": "090274",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Prospects MFB",
+    "code": "090689",
+    "bankName": "PROSPECTS MICROFINANCE BANK",
+    "nipBankCode": "090689",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Prosperis Finance Limited",
+    "code": "050023",
+    "bankName": "TRIVES FINANCE COMPANY LTD",
+    "nipBankCode": "050023",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Prosperity MFB",
+    "code": "090642",
+    "bankName": "PROSPERITY MICROFINANCE BANK",
+    "nipBankCode": "090642",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "PROVIDUS BANK",
+    "code": "101",
+    "bankName": "Providus Bank",
+    "nipBankCode": "000023",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000023"
+  },
+  {
+    "name": "Prudent MFB",
+    "code": "090690",
+    "bankName": "PRUDENT MICROFINANCE BANK",
+    "nipBankCode": "090690",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Pyramid MFB",
+    "code": "090657",
+    "bankName": "PYRAMID MICROFINANCE BANK",
+    "nipBankCode": "090657",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Qube Microfinance Bank",
+    "code": "090569",
+    "bankName": "QUBE MICROFINANCE BANK",
+    "nipBankCode": "090569",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Quickfund Microfinance Bank",
+    "code": "090261",
+    "bankName": "QUICKFUND MICROFINANCE BANK",
+    "nipBankCode": "090261",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "RAND MERCHANT BANK",
+    "code": "502",
+    "bankName": "RAND MERCHANT BANK",
+    "nipBankCode": "000024",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Rayyan MFB",
+    "code": "090616",
+    "bankName": "RAYYAN MICROFINANCE BANK",
+    "nipBankCode": "090616",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Refuge Mortgage Bank",
+    "code": "070011",
+    "bankName": "REFUGE MORTGAGE BANK",
+    "nipBankCode": "070011",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "REGENT MFB",
+    "code": "090125",
+    "bankName": "REGENT MICROFINANCE BANK",
+    "nipBankCode": "090125",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Rehoboth Microfinance Bank",
+    "code": "090463",
+    "bankName": "REHOBOTH MICROFINANCE BANK",
+    "nipBankCode": "090463",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "RELIANCE MICROFINANCE BANK",
+    "code": "090173",
+    "bankName": "RELIANCE MICROFINANCE BANK",
+    "nipBankCode": "090173",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "RenMoney Microfinance Bank",
+    "code": "090198",
+    "bankName": "RENMONEY MICROFINANCE BANK",
+    "nipBankCode": "090198",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Rephidim Microfinance Bank",
+    "code": "090322",
+    "bankName": "REPHIDIM MICROFINANCE BANK",
+    "nipBankCode": "090322",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Revelation MFB",
+    "code": "090666",
+    "bankName": "REVELATION MICROFINANCE BANK",
+    "nipBankCode": "090666",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "RIC MFB",
+    "code": "090720",
+    "bankName": "RIC MFB",
+    "nipBankCode": "090720",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "RICHWAY MICROFINANCE BANK",
+    "code": "090132",
+    "bankName": "RICHWAY MICROFINANCE BANK",
+    "nipBankCode": "090132",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Rigo Microfinance Bank",
+    "code": "090433",
+    "bankName": "RIGO MICROFINANCE BANK",
+    "nipBankCode": "090433",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ROLEZ MICROFINANCE BANK",
+    "code": "090405",
+    "bankName": "ROLEZ MICROFINANCE BANK",
+    "nipBankCode": "090405",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Royal Blue MFB",
+    "code": "090622",
+    "bankName": "ROYAL BLUE MICROFINANCE BANK",
+    "nipBankCode": "090622",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Royal Exchange Microfinance Bank",
+    "code": "090138",
+    "bankName": "ROYAL EXCHANGE MICROFINANCE BANK",
+    "nipBankCode": "090138",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Sabi MFB",
+    "code": "090727",
+    "bankName": "SABI MFB",
+    "nipBankCode": "090727",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Safegate Microfinance Bank",
+    "code": "090485",
+    "bankName": "SAFEGATE MICROFINANCE BANK",
+    "nipBankCode": "090485",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SafeHaven Microfinance Bank",
+    "code": "090286",
+    "bankName": "SAFE HAVEN MICROFINANCE BANK",
+    "nipBankCode": "090286",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SafeTrust",
+    "code": "090006",
+    "bankName": "SAFETRUST",
+    "nipBankCode": "090006",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Safetrust Mortgage bank ",
+    "code": "403",
+    "bankName": "Safetrust Mortgage bank ",
+    "nipBankCode": "090006",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SAGAMU MICROFINANCE BANK LTD",
+    "code": "090140",
+    "bankName": "SAGAMU MICROFINANCE BANK",
+    "nipBankCode": "090140",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SageGrey Finance Limited",
+    "code": "050003",
+    "bankName": "SAGE GREY FINANCE LIMITED ",
+    "nipBankCode": "050003",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SEED CAPITAL MICROFINANCE BANK",
+    "code": "609",
+    "bankName": "SEED CAPITAL MICROFINANCE BANK",
+    "nipBankCode": "090112",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Seedvest Microfinance Bank",
+    "code": "090369",
+    "bankName": "SEEDVEST MICROFINANCE BANK",
+    "nipBankCode": "090369",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Shalom Microfinance Bank",
+    "code": "090502",
+    "bankName": "SHALOM MICROFINANCE BANK",
+    "nipBankCode": "090502",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Shepherd Trust Microfinance Bank",
+    "code": "090401",
+    "bankName": "SHERPERD TRUST MICROFINANCE BANK",
+    "nipBankCode": "090401",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Shield Microfinance Bank",
+    "code": "090559",
+    "bankName": "SHIELD MICROFINANCE BANK",
+    "nipBankCode": "090559",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Shongom Microfinance Bank",
+    "code": "090558",
+    "bankName": "SHONGOM MICROFINANCE BANK",
+    "nipBankCode": "090558",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SIGNATURE Bank LTD",
+    "code": "000034",
+    "bankName": "SIGNATURE BANK",
+    "nipBankCode": "000034",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Simple Finance Limited",
+    "code": "050008",
+    "bankName": "SIMPLE FINANCE LIMITED",
+    "nipBankCode": "050008",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Sincere MFB",
+    "code": "090339",
+    "bankName": "SINCERE MFB",
+    "nipBankCode": "090339",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SLS  MF Bank",
+    "code": "090449",
+    "bankName": "REX MICROFINANCE BANK",
+    "nipBankCode": "090449",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SmartCash PSB",
+    "code": "120004",
+    "bankName": "SMARTCASH PAYMENT SERVICE BANK",
+    "nipBankCode": "120004",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Solid Allianze MFB",
+    "code": "090506",
+    "bankName": "SOLID ALLIANZE MICROFINANCE BANK",
+    "nipBankCode": "090506",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Source MFB",
+    "code": "090641",
+    "bankName": "SOURCE MICROFINANCE BANK",
+    "nipBankCode": "090641",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Sparkle Microfinance Bank",
+    "code": "090325",
+    "bankName": "SPARKLE",
+    "nipBankCode": "090325",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/090325"
+  },
+  {
+    "name": "Spectrum Microfinance Bank",
+    "code": "090436",
+    "bankName": "SPECTRUM MICROFINANCE BANK",
+    "nipBankCode": "090436",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "STANBIC IBTC BANK PLC",
+    "code": "221",
+    "bankName": "STANBIC IBTC BANK",
+    "nipBankCode": "000012",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000012"
+  },
+  {
+    "name": "STANBIC MOBILEMONEY",
+    "code": "304",
+    "bankName": "STANBIC IBTC @Ease WALLET",
+    "nipBankCode": "100007",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "STANDARD CHARTERED BANK NIGERIA LTD",
+    "code": "068",
+    "bankName": "STANDARD CHARTERED BANK",
+    "nipBankCode": "000021",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000021"
+  },
+  {
+    "name": "Stanford Microfinance Bak",
+    "code": "090162",
+    "bankName": "STANFORD MICROFINANCE BANK",
+    "nipBankCode": "090162",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Stateside Microfinance Bank",
+    "code": "090583",
+    "bankName": "Stateside MFB",
+    "nipBankCode": "090583",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "STB Mortgage Bank",
+    "code": "070022",
+    "bankName": "STB MORTGAGE BANK",
+    "nipBankCode": "070022",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Stellas Microfinance Bank",
+    "code": "090262",
+    "bankName": "STELLAS MICROFINANCE BANK",
+    "nipBankCode": "090262",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "STERLING BANK PLC",
+    "code": "232",
+    "bankName": "STERLING BANK",
+    "nipBankCode": "000001",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000001"
+  },
+  {
+    "name": "Sterling Mobile ",
+    "code": "326",
+    "bankName": "Sterling Mobile ",
+    "nipBankCode": "100022",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Sulspap Microfinance Bank",
+    "code": "090305",
+    "bankName": "SULSPAP MICROFINANCE BANK",
+    "nipBankCode": "090305",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Suntop MFB",
+    "code": "090644",
+    "bankName": "SUNTOP MICROFINANCE",
+    "nipBankCode": "090644",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "SunTrust Bank",
+    "code": "100",
+    "bankName": "SUNTRUST BANK",
+    "nipBankCode": "000022",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Support MF Bank",
+    "code": "090446",
+    "bankName": "SUPPORT MICROFINANCE BANK",
+    "nipBankCode": "090446",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Supreme Microfinance Bank",
+    "code": "090564",
+    "bankName": "SUPREME MICROFINANCE BANK",
+    "nipBankCode": "090564",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Sure Anchor MFB",
+    "code": "090728",
+    "bankName": "SURE ANCHOR MFB",
+    "nipBankCode": "090728",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TagPay",
+    "code": "100023",
+    "bankName": "TAGPAY",
+    "nipBankCode": "100023",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TAJ Bank",
+    "code": "000026",
+    "bankName": "TAJ BANK",
+    "nipBankCode": "000026",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000026"
+  },
+  {
+    "name": "Tanadi Microfinance Bank",
+    "code": "090560",
+    "bankName": "CRUST MICROFINANCE BANK",
+    "nipBankCode": "090560",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Tangale MFB",
+    "code": "090638",
+    "bankName": "TANGALE MICROFINANCE BANK",
+    "nipBankCode": "090638",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Tangerine Money MFB",
+    "code": "090426",
+    "bankName": "TANGERINE MONEY",
+    "nipBankCode": "090426",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TCF",
+    "code": "090115",
+    "bankName": "iBank Microfinance Bank",
+    "nipBankCode": "090115",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TeasyMobile",
+    "code": "319",
+    "bankName": "TEASY MOBILE",
+    "nipBankCode": "100010",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TeasyMobile",
+    "code": "100010",
+    "bankName": "TeasyMobile",
+    "nipBankCode": "100010",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Tekla Finance Limited",
+    "code": "050007",
+    "bankName": "TEKLA FACTORING AND FINANCE LIMITED",
+    "nipBankCode": "050007",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TENN MFB",
+    "code": "090716",
+    "bankName": "TENN MFB",
+    "nipBankCode": "090716",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "The Millenium Microfiance Bank Limited",
+    "code": "090711",
+    "bankName": "THE MILLENNIUM MFB",
+    "nipBankCode": "090711",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Think Finance Microfinance Bank",
+    "code": "090373",
+    "bankName": "THINK FINANCE MICROFINANCE BANK",
+    "nipBankCode": "090373",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Titan Trust Bank",
+    "code": "000025",
+    "bankName": "TITAN TRUST BANK",
+    "nipBankCode": "000025",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Titan Trust Bank",
+    "code": "102",
+    "bankName": "Titan Trust Bank",
+    "nipBankCode": "000025",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Tofa MFB",
+    "code": "090714",
+    "bankName": "TOFA MFB",
+    "nipBankCode": "090714",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Total Trust MFB",
+    "code": "090613",
+    "bankName": "Build MicroFinance Bank",
+    "nipBankCode": "090613",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TransPay MFB",
+    "code": "090708",
+    "bankName": "TransPay MFB",
+    "nipBankCode": "090708",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Treasure MFB",
+    "code": "090663",
+    "bankName": "TREASURES MICROFINANCE BANK",
+    "nipBankCode": "090663",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TRIDENT MICROFINANCE BANK",
+    "code": "090146",
+    "bankName": "TRIDENT MICROFINANCE BANK",
+    "nipBankCode": "090146",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Trinity Financial Services Limited",
+    "code": "050014",
+    "bankName": "TRINITY FINANCE",
+    "nipBankCode": "050014",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TripleA Microfinance Bank",
+    "code": "090525",
+    "bankName": "TRIPLE A MFB",
+    "nipBankCode": "090525",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Trust Microfinance Bank",
+    "code": "090327",
+    "bankName": "TRUST MICROFINANCE BANK",
+    "nipBankCode": "090327",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Trustbond Mortgage Bank",
+    "code": "090005",
+    "bankName": "TRUSTBOND MORTGAGE BANK",
+    "nipBankCode": "090005",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "TRUSTBOND MORTGAGE BANK",
+    "code": "523",
+    "bankName": "TRUSTBOND MORTGAGE BANK",
+    "nipBankCode": "090005",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Trustfund Microfinance Bank",
+    "code": "090276",
+    "bankName": "TRUSTFUND MICROFINANCE BANK",
+    "nipBankCode": "090276",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Tsanyawa MFB",
+    "code": "090672",
+    "bankName": "BELLBANK MFB",
+    "nipBankCode": "090672",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "U & C Microfinance Bank",
+    "code": "090315",
+    "bankName": "U & C MICROFINANCE BANK",
+    "nipBankCode": "090315",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "UBA MONI",
+    "code": "000040",
+    "bankName": "UBA MONI",
+    "nipBankCode": "000040",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "UCEE MFB",
+    "code": "090706",
+    "bankName": "UCEE MICROFINANCE BANK",
+    "nipBankCode": "090706",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "UDA Microfinance Bank",
+    "code": "090403",
+    "bankName": "UDA MICROFINANCE BANK",
+    "nipBankCode": "090403",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ummah  Microfinance Bank",
+    "code": "090609",
+    "bankName": "UMMAH MICROFINANCE BANK",
+    "nipBankCode": "090609",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Umuchinemere MFB",
+    "code": "090514",
+    "bankName": "UMUCHINEMERE PROCREDIT MICROFINANCE BANK",
+    "nipBankCode": "090514",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Umunnachi Microfinance Bank",
+    "code": "090510",
+    "bankName": "UMUNNACHI MFB",
+    "nipBankCode": "090510",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "UNAAB Microfinance Bank",
+    "code": "090331",
+    "bankName": "UNAAB MICROFINANCE BANK",
+    "nipBankCode": "090331",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Uniben Microfinance Bank",
+    "code": "090266",
+    "bankName": "UNIBEN MICROFINANCE BANK",
+    "nipBankCode": "090266",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Unical Microfinance Bank",
+    "code": "090193",
+    "bankName": "UNICAL MICROFINANCE BANK",
+    "nipBankCode": "090193",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Unifund MFB",
+    "code": "090637",
+    "bankName": "UNIFUND MICROFINANCE BANK LIMITED",
+    "nipBankCode": "090637",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Unilorin Microfinance Bank",
+    "code": "090341",
+    "bankName": "UNILORIN MICROFINANCE BANK",
+    "nipBankCode": "090341",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "UNION BANK OF NIGERIA PLC",
+    "code": "032",
+    "bankName": "UNION BANK",
+    "nipBankCode": "000018",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000018"
+  },
+  {
+    "name": "UNITED BANK FOR AFRICA PLC",
+    "code": "033",
+    "bankName": "UNITED BANK FOR AFRICA",
+    "nipBankCode": "000004",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000004"
+  },
+  {
+    "name": "UNITY BANK PLC",
+    "code": "215",
+    "bankName": "UNITY BANK",
+    "nipBankCode": "000011",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000011"
+  },
+  {
+    "name": "UniUyo Microfinance Bank",
+    "code": "090338",
+    "bankName": "UNIUYO MFB",
+    "nipBankCode": "090338",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "UNN MFB",
+    "code": "090251",
+    "bankName": "UNIVERSITY OF NIGERIA, NSUKKA MICROFINANCE BANK",
+    "nipBankCode": "090251",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Unubi MFB",
+    "code": "090719",
+    "bankName": "UNUBI MFB",
+    "nipBankCode": "090719",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Ure MFB",
+    "code": "090619",
+    "bankName": "URE MICROFINANCE BANK",
+    "nipBankCode": "090619",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Uzondu MF Bank",
+    "code": "090453",
+    "bankName": "UZONDU MICROFINANCE BANK",
+    "nipBankCode": "090453",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Verite Microfinance Bank",
+    "code": "090123",
+    "bankName": "TRUSTBANC J6 MICROFINANCE BANK LIMITED",
+    "nipBankCode": "090123",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "VFD MICROFINANCE BANK",
+    "code": "090110",
+    "bankName": "VFD MFB",
+    "nipBankCode": "090110",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "VISA MICROFINANCE BANK",
+    "code": "090139",
+    "bankName": "VISA MICROFINANCE BANK",
+    "nipBankCode": "090139",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Visual ICT&#160; ",
+    "code": "328",
+    "bankName": "Visual ICT&#160; ",
+    "nipBankCode": "100023",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "VTNetworks",
+    "code": "320",
+    "bankName": "VT NETWORKS",
+    "nipBankCode": "100012",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "VTNetworks",
+    "code": "100012",
+    "bankName": "VTNetworks",
+    "nipBankCode": "100012",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "WEMA BANK PLC",
+    "code": "035",
+    "bankName": "WEMA BANK",
+    "nipBankCode": "000017",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000017"
+  },
+  {
+    "name": "Wesley MFB",
+    "code": "090699",
+    "bankName": "WESLEY MICROFINANCE BANK",
+    "nipBankCode": "090699",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Weston-Charis MFB",
+    "code": "090741",
+    "bankName": "WESTON-CHARIS MFB",
+    "nipBankCode": "090741",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "WETLAND MFB",
+    "code": "090120",
+    "bankName": "WETLAND  MICROFINANCE BANK",
+    "nipBankCode": "090120",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "WRA MFB",
+    "code": "090631",
+    "bankName": "WRA MFB",
+    "nipBankCode": "090631",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Xpresswallet",
+    "code": "100040",
+    "bankName": "Xpress Wallet",
+    "nipBankCode": "100040",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "XSLNCE Microfinance Bank",
+    "code": "090124",
+    "bankName": "XSLNCE MICROFINANCE BANK",
+    "nipBankCode": "090124",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "YCT Microfinance Bank",
+    "code": "090466",
+    "bankName": "YCT MICROFINANCE BANK",
+    "nipBankCode": "090466",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "YES MICROFINANCE BANK",
+    "code": "090142",
+    "bankName": "YES MICROFINANCE BANK",
+    "nipBankCode": "090142",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Yobe Microfinance Bank",
+    "code": "090252",
+    "bankName": "YOBE MICROFINANCE  BANK",
+    "nipBankCode": "090252",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Zedvance Finance Limiited",
+    "code": "050019",
+    "bankName": "ZEDVANCE FINANCE LIMITED",
+    "nipBankCode": "050019",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ZEFA MFB",
+    "code": "090747",
+    "bankName": "ZEFA MFB",
+    "nipBankCode": "090747",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ZENITH BANK PLC",
+    "code": "057",
+    "bankName": "ZENITH BANK",
+    "nipBankCode": "000015",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/000015"
+  },
+  {
+    "name": "Zenith Easy Wallet",
+    "code": "100034",
+    "bankName": "ZENITH EASY WALLET",
+    "nipBankCode": "100034",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "ZenithMobile",
+    "code": "322",
+    "bankName": "ZENITH MOBILE",
+    "nipBankCode": "100018",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Zikora Microfinance Bank",
+    "code": "090504",
+    "bankName": "ZIKORA MICROFINANCE BANK",
+    "nipBankCode": "090504",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  },
+  {
+    "name": "Zitra MFB",
+    "code": "090718",
+    "bankName": "ZITRA MFB",
+    "nipBankCode": "090718",
+    "icon": "https://pub-96d9b12ebbdd4b1f882db6e03e2b519e.r2.dev/logo/default-image"
+  }
+]
