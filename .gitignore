@@ -28,6 +28,7 @@ _data/*
 scripts/*
 !scripts/build.ts
 !scripts/workflow.ts
+!scripts/ci.ts
 
 # misc
 .DS_Store

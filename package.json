@@ -4,7 +4,10 @@
   "description": "A comprehensive list of nigerian banks, NIP codes, CBN codes, and associated metadata",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ci": "npx tsx scripts/ci.ts",
+    "process-images": "npx tsx scripts/build.ts",
+    "build": "npx tsc"
   },
   "author": "",
   "license": "ISC",
